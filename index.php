@@ -5,8 +5,7 @@
                 <p>"Rohtak mercilessly squashed and burned. But no strict action taken by the government yet.. Now its time to awake the government. If you are worried about Rohtak and want to contribute, this is one possible way to wake up the officials of Rohtak. May this beautiful small-town's love, laughter and prosperity be restored.  May the angel in each of its residents be powerful enough to rub off the tears of all the ones affected. May peace be restored soon."</p>
                 <ul class="share-buttons">
                     <li>Share This : </li>
-                    <!--<li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsaverohtak.com&t=" title="Share on Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img src="img/inverted/Facebook.png"></a></li>-->
-                    <div class="fb-share-button" data-href="http://saverohtak.com/" data-layout="button_count"></div>
+                    <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsaverohtak.com&t=" title="Share on Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img src="img/inverted/Facebook.png"></a></li>
                     <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fsaverohtak.com&text=:%20http%3A%2F%2Fsaverohtak.com" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img src="img/inverted/Twitter.png"></a></li>
                 </ul>
             </section>
